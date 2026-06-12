@@ -20,9 +20,9 @@ The app shares ideas from the app LearnFlow, but focused on the Brazilian educat
 
 # Project Members
 
-- **Vinícius Gabriel Marques de Melo** – Backend Developer
+- **Vinícius Gabriel** – Backend Developer
 - **Davi Atayde** – Python Developer
-- **Maria Eduarda Neves de Souza** – Web Designer
+- **Maria Neves** – Web Designer
 
 # Contact
 
