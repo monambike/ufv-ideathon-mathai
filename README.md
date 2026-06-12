@@ -21,8 +21,8 @@ The app shares ideas from the app LearnFlow, but focused on the Brazilian educat
 # Project Members
 
 - **Vinícius Gabriel** – Backend Developer
-- **Davi Atayde** – Python Developer
 - **Maria Neves** – Web Designer
+- **Davi Atayde** – Python Developer
 
 # Contact
 
